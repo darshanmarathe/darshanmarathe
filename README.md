@@ -1,7 +1,5 @@
 # Hi there 👋
 
-
-
 > First of all thanks for visiting my page 
 >  So who am i ?
 
@@ -22,15 +20,11 @@
  - SaaS  	
  - ALM
 
+## Some good project your developers can use today
 
-- 🔭 I’m currently working on ...
-
-
-## Some good project your developers can use today.
-- 
 ### ComponentForge
 
-github.com/darshanmarathe/componentForge
+[github.com/darshanmarathe/componentForge](https://github.com/darshanmarathe/componentForge)
 TypeScript Lit-html WebPack
 A Web Component framework which you can use to build native web components using reactish framework with state and props and lit-html
 
@@ -98,21 +92,3 @@ Mongo Node
 [github.com/darshanmarathe/Decomposer](https://github.com/darshanmarathe/Decomposer)
 
 Decompose MongoDB backup files
-
-
-<!--
-**darshanmarathe/darshanmarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
