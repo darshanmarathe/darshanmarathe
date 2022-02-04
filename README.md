@@ -43,6 +43,8 @@ Super commands for your windows programmers for improving development productivi
 
 ### PartialJS
 [github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
+
+#### Demo
 [partialjs.herokuapp.com](https://partialjs.herokuapp.com)
 ES5
 Creating a simple HTML site dont repeat header footer menu on each page this
