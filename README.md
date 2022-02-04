@@ -33,7 +33,8 @@ ROADMAP
  * Integration with storyBook
 
 ### xCmd
-github.com/darshanmarathe/xcmd
+[github.com/darshanmarathe/xcmd](https://github.com/darshanmarathe/xcmd)
+
 Batch
 ScriptCS
 
