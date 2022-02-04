@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 
@@ -22,8 +22,12 @@
  - SaaS  	
  - ALM
 
-## Some good project your developers can use today
 
+- 🔭 I’m currently working on ...
+
+
+## Some good project your developers can use today.
+- 
 ### ComponentForge
 
 github.com/darshanmarathe/componentForge
@@ -42,28 +46,28 @@ Super commands for your windows programmers for improving development productivi
 
 
 ### PartialJS
-github.com/darshanmarathe/partialjs
-partialjs.herokuapp.com
+[github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
+[partialjs.herokuapp.com](https://partialjs.herokuapp.com)
 ES5
 Creating a simple HTML site dont repeat header footer menu on each page this
 Support for autoload delay_load and 0 code AJAX
 
 ### CodeCollab
-github.com/darshanmarathe/CodeCollab
-interviewpad.herokuapp.com
+[github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
+[interviewpad.herokuapp.com](https://interviewpad.herokuapp.com)
 MERN
 Take real time coding interviews
 Support for 30 Languages and real time
 
 ### BindingJs
-github.com/darshanmarathe/bindingsjs
+[github.com/darshanmarathe/bindingsjs](https://github.com/darshanmarathe/bindingsjs)
 JS
 Micro Front-end event binding with declarative programing
 Write 0 JS for binding your micro frontends
 
 
 ### min-json-server
-github.com/darshanmarathe/min_json_server
+[github.com/darshanmarathe/min_json_server](https://github.com/darshanmarathe/min_json_server)
 Node Express
 
 Need a quick API backend enjoy m-json-server
@@ -75,7 +79,7 @@ neDB
 
 
 ### Node SQL
-github.com/darshanmarathe/NODESQL
+[github.com/darshanmarathe/NODESQL](https://github.com/darshanmarathe/NODESQL)
 ES
 
 SQL For Object and Async functions
@@ -83,7 +87,7 @@ SQL For Object and Async functions
 
 
 ### Pomodorrow
-github.com/darshanmarathe/pomodorrow
+[github.com/darshanmarathe/pomodorrow](https://github.com/darshanmarathe/pomodorrow)
 winforms
 
 Pomodrrow timer
@@ -91,10 +95,9 @@ Pomodrrow timer
 
 ### Decoposer
 Mongo Node
-github.com/darshanmarathe/Decomposer
+[github.com/darshanmarathe/Decomposer](https://github.com/darshanmarathe/Decomposer)
 
 Decompose MongoDB backup files
-
 
 
 <!--
