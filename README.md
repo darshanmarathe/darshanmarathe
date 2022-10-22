@@ -110,7 +110,19 @@ Super commands for your windows programmers for improving development productivi
 ### PartialJS
 [github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
 
-#### Demo
+Partial Tag for HTML without any server side technology
+
+***FEATURES*** 
+ * Re-use HTML areas  
+ * Load HTML Files or Server pages or Action/Controller
+ * Onload run a JS Function
+ * Delay Load 
+ * AutoRefresh in time interval 
+ * 0 AJAX load with Handlebar templating 
+ * Javascript API 
+ * Load If Condition 
+
+#### DEMO
 [partialjs.herokuapp.com](https://partialjs.herokuapp.com)
 ES5
 Creating a simple HTML site dont repeat header footer menu on each page this
@@ -118,10 +130,17 @@ Support for autoload delay_load and 0 code AJAX
 
 ### CodeCollab
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
+
+#### DEMO 
 [interviewpad.herokuapp.com](https://interviewpad.herokuapp.com)
-MERN
-Take real time coding interviews
-Support for 30 Languages and real time
+
+
+***FEATURES*** 
+ * Take real time coding interviews  
+ * Support for 30 Languages and real time
+ * Host More than 1 interview
+ 
+
 
 ### BindingJs
 [github.com/darshanmarathe/bindingsjs](https://github.com/darshanmarathe/bindingsjs)
@@ -129,6 +148,10 @@ JS
 Micro Front-end event binding with declarative programing
 Write 0 JS for binding your micro frontends
 
+***FEATURES*** 
+ * Pass Object with Events
+ * 0 JS Code needed
+ * Connect Many to Many Relation ships in Micro Frontends
 
 ### min-json-server
 [github.com/darshanmarathe/min_json_server](https://github.com/darshanmarathe/min_json_server)
