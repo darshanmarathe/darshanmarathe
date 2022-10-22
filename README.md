@@ -36,7 +36,7 @@ DEMO : https://dm-react-components.netlify.app/
 DEMO : https://dm-vue-components.netlify.app/
 
 
-### Web-Components (Built with componentForege)
+### Web-Components (Built with componentForge)
 
 
 [https://github.com/darshanmarathe/dm-cf-components](https://github.com/darshanmarathe/dm-cf-components)
