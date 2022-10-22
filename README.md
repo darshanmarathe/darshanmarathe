@@ -157,8 +157,16 @@ Write 0 JS for binding your micro frontends
 [github.com/darshanmarathe/min_json_server](https://github.com/darshanmarathe/min_json_server)
 Node Express
 
-Need a quick API backend enjoy m-json-server
-Save Data too
+Need a quick API backend enjoy min-json-server
+
+***FEATURES*** 
+ * Support FileSystem / Mongo / Redis / neDB / MySQL / SQL / Postgress 
+ * 0 Configuration with FileSystem Backend
+ * Dynamic Api with REST Support
+ * Caching layer (ENV: CACHE_TTL=100, or soon api level)
+ * Reverse Proxy
+
+
 MongoDB
 FileSystem
 Redis
