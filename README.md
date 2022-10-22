@@ -49,8 +49,17 @@ DEMO : https://dm-cf-components.netlify.app/
 TypeScript Lit-html WebPack
 A Web Component framework which you can use to build native web components using reactish framework with state and props and lit-html
 
-ROADMAP 
- * Integration with storyBook
+***FEATURES*** 
+ * React style API
+ * Powered by Lit-html
+ * Zero configuration
+ * Template Injection
+ * FAST
+ * No Extra lib needed for simple xhr like GET/POST
+ 
+ 
+ 
+ 
 
 ### xCmd
 [github.com/darshanmarathe/xcmd](https://github.com/darshanmarathe/xcmd)
