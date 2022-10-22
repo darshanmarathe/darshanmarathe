@@ -24,10 +24,24 @@
 
 
 ## UI Toolkits 
+
+***Advanced components for your UI team***
+
 ###  React
 [https://github.com/darshanmarathe/dm-react-components](https://github.com/darshanmarathe/dm-react-components)
 
 DEMO : https://dm-react-components.netlify.app/
+
+***Components*** 
+ * JSONForm (Low code formbuilder with validations)
+ * Masonry
+ * PDF Export
+ * Picture Taker
+ * QR Scanner
+ * QR Generator 
+ * Dynamic Table (Grid control)
+ * SmartTexter (snippets based textarea)
+ 
 
 ### Vue
 
@@ -36,12 +50,22 @@ DEMO : https://dm-react-components.netlify.app/
 DEMO : https://dm-vue-components.netlify.app/
 
 
+***Components*** 
+ * JSONForm (Low code formbuilder with validations)
+
+
 ### Web-Components (Built with componentForge)
 
 
 [https://github.com/darshanmarathe/dm-cf-components](https://github.com/darshanmarathe/dm-cf-components)
 
 DEMO : https://dm-cf-components.netlify.app/
+
+
+***Components*** 
+ * JSONForm (Low code formbuilder with validations)
+ * Autocomplete
+ 
 
 ### ComponentForge
 [github.com/darshanmarathe/componentForge](https://github.com/darshanmarathe/componentForge)
@@ -61,13 +85,26 @@ A Web Component framework which you can use to build native web components using
  
  
 
-### xCmd
+### XCMD
+***Commands on sterioids***
+
 [github.com/darshanmarathe/xcmd](https://github.com/darshanmarathe/xcmd)
 
-Batch
+Batch Commands
 ScriptCS
+NodeJS
 
 Super commands for your windows programmers for improving development productivity and make them lazy
+
+
+***FEATURES*** 
+ * Git commands
+ * folder / file creation
+ * Machine configuration commands
+ * Linux commands touch ls ll cat etc
+ * Docker commands
+ * npm commands 
+ * Utility commands win zip unzip 
 
 
 ### PartialJS
