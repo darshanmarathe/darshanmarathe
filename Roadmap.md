@@ -1,30 +1,3 @@
-# Hi there 👋
-
-> First of all thanks for visiting my page 
->  So who am i ?
-
-**A Developer with**
-
- - Backend + Frontend + DevOps +  18 Years experience.
- - Experience in Developing SaaS App Check CollabMantra.com (95% code written by me)
- - BE - NodeJs / C# / Golang / Python
- - FE (React / Vue / Angular / Web Components / ComponentForge (that's the framework written by me)
-
-
-**Domains with experience** 
-	
- - OTT  	
- - Ecommerce  	
- - Procurement  	
- - Travel and hospitality  	
- - SaaS  	
- - ALM
-
-## Some good projects your developers can start using today
-
-And ***Roadmap***
-[Link to RoadMap](/Roadmap.md)
-
 
 ## UI Toolkits 
 
@@ -35,16 +8,8 @@ And ***Roadmap***
 
 DEMO : https://dm-react-components.netlify.app/
 
-***Components*** 
- * JSONForm (Low code formbuilder with validations)
- * Masonry
- * PDF Export
- * Picture Taker
- * QR Scanner
- * QR Generator 
- * Dynamic Table (Grid control)
- * SmartTexter (snippets based textarea)
- 
+***ROADMAP*** 
+ * Autocomplete
 
 ### Vue
 
@@ -53,8 +18,9 @@ DEMO : https://dm-react-components.netlify.app/
 DEMO : https://dm-vue-components.netlify.app/
 
 
-***Components*** 
- * JSONForm (Low code formbuilder with validations)
+***ROADMAP*** 
+ * Autocomplete
+ * Masonry
 
 
 ### Web-Components (Built with componentForge)
@@ -66,8 +32,7 @@ DEMO : https://dm-cf-components.netlify.app/
 
 
 ***Components*** 
- * JSONForm (Low code formbuilder with validations)
- * Autocomplete
+ * Masonry
  
 
 ### ComponentForge
@@ -76,14 +41,8 @@ DEMO : https://dm-cf-components.netlify.app/
 TypeScript Lit-html WebPack
 A Web Component framework which you can use to build native web components using reactish framework with state and props and lit-html
 
-***FEATURES*** 
- * React style API
- * Powered by Lit-html
- * Zero configuration
- * Template Injection
- * FAST
- * No Extra lib needed for simple xhr like GET/POST
- 
+***ROADMAP*** 
+ * Other component integration guides
  
  
  
@@ -100,14 +59,10 @@ NodeJS
 Super commands for your windows programmers for improving development productivity and make them lazy
 
 
-***FEATURES*** 
- * Git commands
- * folder / file creation
- * Machine configuration commands
- * Linux commands touch ls ll cat etc
- * Docker commands
- * npm commands 
- * Utility commands win zip unzip 
+***ROADMAP*** 
+ * GOLANG VERSION
+ * Better documentation
+ 
 
 
 ### PartialJS
@@ -115,15 +70,9 @@ Super commands for your windows programmers for improving development productivi
 
 Partial Tag for HTML without any server side technology
 
-***FEATURES*** 
- * Re-use HTML areas  
- * Load HTML Files or Server pages or Action/Controller
- * Onload run a JS Function
- * Delay Load 
- * AutoRefresh in time interval 
- * 0 AJAX load with Handlebar templating 
- * Javascript API 
- * Load If Condition 
+***ROADMAP*** 
+ * lit-html templating integration
+ * Support for Scripts and methods
 
 #### DEMO
 [partialjs.herokuapp.com](https://partialjs.herokuapp.com)
@@ -138,10 +87,11 @@ Support for autoload delay_load and 0 code AJAX
 [interviewpad.herokuapp.com](https://interviewpad.herokuapp.com)
 
 
-***FEATURES*** 
- * Take real time coding interviews  
- * Support for 30 Languages and real time
- * Host More than 1 interview
+***ROADMAP*** 
+ * More computer languages support 
+ * Mini video call and chat support 
+
+ 
  
 
 
@@ -151,11 +101,9 @@ JS
 Micro Front-end event binding with declarative programing
 Write 0 JS for binding your micro frontends
 
-***FEATURES*** 
- * Pass strings with Events to other controls.
- * Pass Object with Events to other controls.
- * Pass strings/Objects to function.
- * Complex property binding with targrt format.
+***ROADMAP*** 
+ * Better documentation. 
+ * Better Demo Website. 
 
 
 ### min-json-server
@@ -164,12 +112,19 @@ Node Express
 
 Need a quick API backend enjoy min-json-server
 
-***FEATURES*** 
- * Support FileSystem / Mongo / Redis / neDB / MySQL / SQL / Postgress 
- * 0 Configuration with FileSystem Backend
- * Dynamic Api with REST Support
- * Caching layer (ENV: CACHE_TTL=100, or soon api level)
- * Reverse Proxy
+***ROADMAP*** 
+* RealTime
+* admin Area service
+* admin panel
+* Hypermedia API
+* validations
+* transformations
+* Webhook
+* security (JWT)
+* clients (client keys)
+* schemas
+* headless cms
+* GraphQL (When schema available)
 
 
 
@@ -181,10 +136,9 @@ ES
 SQL For Objects Arrays and Async functions
 (Support for SubQueries)
 
-***FEATURES*** 
- * SELECT (obj.propname , obj.prop.subprop)
- * FROM (Objects, Arrays, Async functions)
- * GROUPBY
+***ROADMAP*** 
+ * SORTBY
+ * EVAL SELECTS
  
 
 ### Pomodorrow
@@ -193,9 +147,15 @@ winforms
 
 Pomodrrow timer
 
+***ROADMAP*** 
+ * TODO LIST
+ * CROSS PLATFORM WITH MONO
 
 ### Decoposer
 Mongo Node
 [github.com/darshanmarathe/Decomposer](https://github.com/darshanmarathe/Decomposer)
 
 Decompose MongoDB backup files
+
+***ROADMAP*** 
+ * Better Documentaion
