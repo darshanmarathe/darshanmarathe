@@ -167,19 +167,20 @@ Need a quick API backend enjoy min-json-server
  * Reverse Proxy
 
 
-MongoDB
-FileSystem
-Redis
-neDB
 
 
 ### Node SQL
 [github.com/darshanmarathe/NODESQL](https://github.com/darshanmarathe/NODESQL)
 ES
 
-SQL For Object and Async functions
+SQL For Objects Arrays and Async functions
 (Support for SubQueries)
 
+***FEATURES*** 
+ * SELECT (obj.propname , obj.prop.subprop)
+ * FROM (Objects, Arrays, Async functions)
+ * GROUPBY
+ 
 
 ### Pomodorrow
 [github.com/darshanmarathe/pomodorrow](https://github.com/darshanmarathe/pomodorrow)
