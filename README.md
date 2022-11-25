@@ -37,6 +37,7 @@ DEMO : https://dm-react-components.netlify.app/
 
 ***Components*** 
  * JSONForm (Low code formbuilder with validations)
+ * Autocomplete
  * Masonry
  * PDF Export
  * Picture Taker
@@ -68,6 +69,20 @@ DEMO : https://dm-cf-components.netlify.app/
 ***Components*** 
  * JSONForm (Low code formbuilder with validations)
  * Autocomplete
+
+
+ ### Angular
+
+
+[https://github.com/darshanmarathe/dm-ng-components](https://github.com/darshanmarathe/dm-ng-components)
+
+DEMO : https://dm-ng-components.netlify.app/
+
+
+***Components*** 
+ * JSONForm (Low code formbuilder with validations)
+
+ 
  
 
 ### ComponentForge
