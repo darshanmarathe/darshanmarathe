@@ -45,6 +45,7 @@ DEMO : https://dm-ng-components.netlify.app/
 
 ***Components*** 
  * Autocomplete
+ * Masonry
  
 
  
