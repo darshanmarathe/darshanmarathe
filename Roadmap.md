@@ -99,7 +99,7 @@ Support for autoload delay_load and 0 code AJAX
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
 
 #### DEMO 
-[interviewpad.herokuapp.com](https://interviewpad.herokuapp.com)
+[https://interviewpad.up.railway.app/](https://interviewpad.up.railway.app/)
 
 
 ***ROADMAP*** 
