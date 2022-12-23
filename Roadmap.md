@@ -57,6 +57,9 @@ TypeScript Lit-html WebPack
 A Web Component framework which you can use to build native web components using reactish framework with state and props and lit-html
 
 ***ROADMAP*** 
+ * Minification support
+ * Youtube Channel
+ * More computer languages support 
  * Other Frameworks (react/angular/vue) integration guides
  
  
@@ -75,8 +78,9 @@ Super commands for your windows programmers for improving development productivi
 
 
 ***ROADMAP*** 
- * GOLANG VERSION
  * Better documentation
+ * GOLANG VERSION
+
  
 
 
@@ -86,6 +90,7 @@ Super commands for your windows programmers for improving development productivi
 Partial Tag for HTML without any server side technology
 
 ***ROADMAP*** 
+ * Rehost the website 
  * lit-html templating integration
  * Support for Scripts and methods
 
@@ -103,6 +108,7 @@ Support for autoload delay_load and 0 code AJAX
 
 
 ***ROADMAP*** 
+ * Console for JavaScript 
  * More computer languages support 
  * Mini video call and chat support 
 
