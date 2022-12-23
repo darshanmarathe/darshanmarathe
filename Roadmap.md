@@ -56,6 +56,11 @@ DEMO : https://dm-ng-components.netlify.app/
 TypeScript Lit-html WebPack
 A Web Component framework which you can use to build native web components using reactish framework with state and props and lit-html
 
+
+***Website***
+https://componentforge.up.railway.app/
+
+
 ***ROADMAP*** 
  * Minification support
  * Youtube Channel
@@ -104,7 +109,7 @@ Support for autoload delay_load and 0 code AJAX
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
 
 #### DEMO 
-[interviewpad.herokuapp.com](https://interviewpad.herokuapp.com)
+[https://interviewpad.up.railway.app/](https://interviewpad.up.railway.app/)
 
 
 ***ROADMAP*** 

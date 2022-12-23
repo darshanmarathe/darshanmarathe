@@ -1,6 +1,6 @@
 # Hi there 👋
 
-> First of all thanks for visiting my page 
+> First of all thanks for visiting my page
 >  So who am i ?
 
 **A Developer with**
@@ -11,8 +11,8 @@
  - FE (React / Vue / Angular / Web Components / ComponentForge (that's the framework written by me)
 
 
-**Domains with experience** 
-	
+**Domains with experience**
+
  - OTT  	
  - Ecommerce  	
  - Procurement  	
@@ -26,7 +26,7 @@ And ***Roadmap***
 [Link to RoadMap](/Roadmap.md)
 
 
-## UI Toolkits 
+## UI Toolkits
 
 ***Advanced components for your UI team***
 
@@ -35,17 +35,17 @@ And ***Roadmap***
 
 DEMO : https://dm-react-components.netlify.app/
 
-***Components*** 
+***Components***
  * JSONForm (Low code formbuilder with validations)
  * Autocomplete
  * Masonry
  * PDF Export
  * Picture Taker
  * QR Scanner
- * QR Generator 
+ * QR Generator
  * Dynamic Table (Grid control)
  * SmartTexter (snippets based textarea)
- 
+
 
 ### Vue
 
@@ -54,7 +54,7 @@ DEMO : https://dm-react-components.netlify.app/
 DEMO : https://dm-vue-components.netlify.app/
 
 
-***Components*** 
+***Components***
  * JSONForm (Low code formbuilder with validations)
 
 
@@ -66,7 +66,7 @@ DEMO : https://dm-vue-components.netlify.app/
 DEMO : https://dm-cf-components.netlify.app/
 
 
-***Components*** 
+***Components***
  * JSONForm (Low code formbuilder with validations)
  * Autocomplete
 
@@ -79,11 +79,11 @@ DEMO : https://dm-cf-components.netlify.app/
 DEMO : https://dm-ng-components.netlify.app/
 
 
-***Components*** 
+***Components***
  * JSONForm (Low code formbuilder with validations)
  * Autocomplete
- 
- 
+
+
 
 ### ComponentForge
 [github.com/darshanmarathe/componentForge](https://github.com/darshanmarathe/componentForge)
@@ -91,17 +91,20 @@ DEMO : https://dm-ng-components.netlify.app/
 TypeScript Lit-html WebPack
 A Web Component framework which you can use to build native web components using reactish framework with state and props and lit-html
 
-***FEATURES*** 
+***Website***
+https://componentforge.up.railway.app/
+
+***FEATURES***
  * React style API
  * Powered by Lit-html
  * Zero configuration
  * Template Injection
  * FAST
  * No Extra lib needed for simple xhr like GET/POST
- 
- 
- 
- 
+
+
+
+
 
 ### XCMD
 ***Commands on sterioids***
@@ -115,14 +118,14 @@ NodeJS
 Super commands for your windows programmers for improving development productivity and make them lazy
 
 
-***FEATURES*** 
+***FEATURES***
  * Git commands
  * folder / file creation
  * Machine configuration commands
  * Linux commands touch ls ll cat etc
  * Docker commands
- * npm commands 
- * Utility commands win zip unzip 
+ * npm commands
+ * Utility commands win zip unzip
 
 
 ### PartialJS
@@ -130,15 +133,15 @@ Super commands for your windows programmers for improving development productivi
 
 Partial Tag for HTML without any server side technology
 
-***FEATURES*** 
+***FEATURES***
  * Re-use HTML areas  
  * Load HTML Files or Server pages or Action/Controller
  * Onload run a JS Function
- * Delay Load 
- * AutoRefresh in time interval 
- * 0 AJAX load with Handlebar templating 
- * Javascript API 
- * Load If Condition 
+ * Delay Load
+ * AutoRefresh in time interval
+ * 0 AJAX load with Handlebar templating
+ * Javascript API
+ * Load If Condition
 
 #### DEMO
 [partialjs.herokuapp.com](https://partialjs.herokuapp.com)
@@ -149,15 +152,15 @@ Support for autoload delay_load and 0 code AJAX
 ### CodeCollab
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
 
-#### DEMO 
-[interviewpad.herokuapp.com](https://interviewpad.herokuapp.com)
+#### DEMO
+[interviewpad.up.railway.app/](https://interviewpad.up.railway.app/)
 
 
-***FEATURES*** 
+***FEATURES***
  * Take real time coding interviews  
  * Support for 30 Languages and real time
  * Host More than 1 interview
- 
+
 
 
 ### BindingJs
@@ -166,7 +169,7 @@ JS
 Micro Front-end event binding with declarative programing
 Write 0 JS for binding your micro frontends
 
-***FEATURES*** 
+***FEATURES***
  * Pass strings with Events to other controls.
  * Pass Object with Events to other controls.
  * Pass strings/Objects to function.
@@ -179,8 +182,8 @@ Node Express
 
 Need a quick API backend enjoy min-json-server
 
-***FEATURES*** 
- * Support FileSystem / Mongo / Redis / neDB / MySQL / SQL / Postgress 
+***FEATURES***
+ * Support FileSystem / Mongo / Redis / neDB / MySQL / SQL / Postgress
  * 0 Configuration with FileSystem Backend
  * Dynamic Api with REST Support
  * Caching layer (ENV: CACHE_TTL=100, or soon api level)
@@ -196,11 +199,11 @@ ES
 SQL For Objects Arrays and Async functions
 (Support for SubQueries)
 
-***FEATURES*** 
+***FEATURES***
  * SELECT (obj.propname , obj.prop.subprop)
  * FROM (Objects, Arrays, Async functions)
  * GROUPBY
- 
+
 
 ### Pomodorrow
 [github.com/darshanmarathe/pomodorrow](https://github.com/darshanmarathe/pomodorrow)
