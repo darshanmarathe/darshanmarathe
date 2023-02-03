@@ -130,6 +130,7 @@ Super commands for your windows programmers for improving development productivi
 
 ### PartialJS
 [github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
+
 [Demo](https://partialjs.up.railway.app/)
 
 Partial Tag for HTML without any server side technology
@@ -143,12 +144,6 @@ Partial Tag for HTML without any server side technology
  * 0 AJAX load with Handlebar templating
  * Javascript API
  * Load If Condition
-
-#### DEMO
-[partialjs.herokuapp.com](https://partialjs.herokuapp.com)
-ES5
-Creating a simple HTML site dont repeat header footer menu on each page this
-Support for autoload delay_load and 0 code AJAX
 
 ### CodeCollab
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
