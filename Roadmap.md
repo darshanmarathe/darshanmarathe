@@ -111,8 +111,8 @@ Partial Tag for HTML without any server side technology
 
 
 ***ROADMAP*** 
- * Console for JavaScript 
- * More computer languages support 
+ * Sketch
+ * diagram  
  * Mini video call and chat support 
 
  
