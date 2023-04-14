@@ -44,7 +44,7 @@ DEMO : https://dm-react-components.netlify.app/
  * QR Scanner
  * QR Generator
  * Dynamic Table (Grid control)
- * SmartTexter (snippets based textarea)
+ * TextArea (BETA) (snippets for textarea)
 
 
 ### Vue
