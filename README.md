@@ -25,6 +25,8 @@
 And ***Roadmap***
 [Link to RoadMap](/Roadmap.md)
 
+**Releases**
+[Link to Releases](/releases/index.md)
 
 ## UI Toolkits
 
@@ -56,6 +58,7 @@ DEMO : https://dm-vue-components.netlify.app/
 
 ***Components***
  * JSONForm (Low code formbuilder with validations)
+ * Autocomplete
 
 
 ### Web-Components (Built with componentForge)
