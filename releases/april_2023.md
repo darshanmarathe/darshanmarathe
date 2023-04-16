@@ -23,4 +23,4 @@ DEMO : https://dm-react-components.netlify.app/
 
 
  ***Components***
-  * Autocomplete
+  * Autocomplete (NEW)
