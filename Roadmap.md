@@ -62,9 +62,7 @@ https://componentforge.up.railway.app/
 
 
 ***ROADMAP*** 
- * Minification support
  * Youtube Channel
- * More computer languages support 
  * Other Frameworks (react/angular/vue) integration guides
  
  

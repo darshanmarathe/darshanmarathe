@@ -24,3 +24,11 @@ DEMO : https://dm-react-components.netlify.app/
 
  ***Components***
   * Autocomplete (NEW)
+
+
+
+## ComponentForge 
+  * Minification support 
+  * BUGFIX :- When Shadowdom is off InnerHTML of control not cleared
+  
+
