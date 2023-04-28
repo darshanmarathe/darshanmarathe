@@ -37,5 +37,10 @@ DEMO : https://dm-react-components.netlify.app/
   * Updated the documentation for git.
   * updated all docker commands to run with powershell
   * Added documentation for docker commands 
+  
+
+## partialjs
+  * redeployment to railway app.
+
 
 

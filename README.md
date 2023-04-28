@@ -134,7 +134,7 @@ Super commands for your windows programmers for improving development productivi
 ### PartialJS
 [github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
 
-[Demo](https://partialjs.up.railway.app/)
+[Demo](http://partialjs.up.railway.app/)
 
 Partial Tag for HTML without any server side technology
 
