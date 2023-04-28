@@ -11,7 +11,7 @@
 DEMO : https://dm-react-components.netlify.app/
 
 ***Components***
- * TextArea (BETA) (snippets for textarea)
+ * TextArea (BETA) (snippets for textarea).
 
 
 
@@ -23,12 +23,17 @@ DEMO : https://dm-react-components.netlify.app/
 
 
  ***Components***
-  * Autocomplete (NEW)
+  * Autocomplete (NEW).
 
 
 
 ## ComponentForge 
-  * Minification support 
-  * BUGFIX :- When Shadowdom is off InnerHTML of control not cleared
+  * Minification support.
+  * BUGFIX :- When Shadowdom is off InnerHTML of control not cleared.
   
+
+## XCMD 
+  * rmlastcommit (remove last commit command).
+  * Updated the documentation for git.
+
 
