@@ -35,5 +35,7 @@ DEMO : https://dm-react-components.netlify.app/
 ## XCMD 
   * rmlastcommit (remove last commit command).
   * Updated the documentation for git.
+  * updated all docker commands to run with powershell
+  * Added documentation for docker commands 
 
 
