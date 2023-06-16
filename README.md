@@ -43,7 +43,7 @@ DEMO : https://dm-react-components.netlify.app/
  * Masonry
  * PDF Export
  * Picture Taker
- * QR Scanner
+ * QR/Barcode Scanner
  * QR Generator
  * Dynamic Table (Grid control)
  * TextArea (BETA) (snippets for textarea)
