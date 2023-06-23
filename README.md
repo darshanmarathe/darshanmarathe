@@ -107,6 +107,19 @@ https://componentforge.up.railway.app/
 
 
 
+### mkDOM (Make DOM)
+Have you written code like this 
+
+    myElem.innerHTML = `<div class='card'> ${title} </div>
+
+ and **Source Code Analysis Tools** for e.g. checkmarks are reporting as possible **XSS** attack the tool is right but then how to fix it ? Here comes the mkDOM library with a fluent API to help you 
+
+    const div = mkDOM('div' , {
+    "class":  'card'
+    }).content(title)
+    myElem.appendChild(div.element)
+
+But now your code is safe and SCAT tools are happy with it. :-)  
 
 
 ### XCMD
