@@ -148,7 +148,7 @@ Partial Tag for HTML without any server side technology
  * Javascript API
  * Load If Condition
 
-### CodeCollab
+### CodeCollab AKA Interviewpad
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
 
 #### DEMO
