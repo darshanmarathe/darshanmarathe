@@ -160,6 +160,7 @@ Partial Tag for HTML without any server side technology
  * Onload run a JS Function
  * Delay Load
  * AutoRefresh in time interval
+ * Custom Tag name support get your own tag <myPartial src="views/header.html" /> 
  * 0 AJAX load with Handlebar templating
  * Javascript API
  * Load If Condition
