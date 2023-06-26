@@ -99,6 +99,7 @@ Partial Tag for HTML without any server side technology
 ***ROADMAP*** 
  * lit-html templating integration
  * Support for Scripts and methods
+ * passing attributes as variable to the script  
 
 
 ### CodeCollab
