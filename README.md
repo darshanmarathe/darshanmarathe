@@ -128,7 +128,7 @@ But now your code is safe and SCAT tools are happy with it. :-)
 ### XCMD
 ***Commands on sterioids***
 
-[github.com/darshanmarathe/xcmd](https://github.com/darshanmarathe/xcmd)
+[https://github.com/darshanmarathe/xcmd](https://github.com/darshanmarathe/xcmd)
 
 Batch Commands
 ScriptCS
@@ -148,7 +148,7 @@ Super commands for your windows programmers for improving development productivi
 
 
 ### PartialJS
-[github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
+[https://github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
 
 [Demo](http://partialjs.up.railway.app/)
 
@@ -222,7 +222,7 @@ SQL For Objects Arrays and Async functions
 
 
 ### Pomodorrow
-[github.com/darshanmarathe/pomodorrow](https://github.com/darshanmarathe/pomodorrow)
+[https://github.com/darshanmarathe/pomodorrow](https://github.com/darshanmarathe/pomodorrow)
 winforms
 
 Pomodrrow timer
