@@ -9,7 +9,9 @@
 DEMO : https://dm-react-components.netlify.app/
 
 ***ROADMAP*** 
- * Autocomplete
+ * Video Explaining Project 
+ * smartTexter
+ * JSONForm (more properties support)
 
 ### Vue
 
@@ -19,8 +21,9 @@ DEMO : https://dm-vue-components.netlify.app/
 
 
 ***ROADMAP*** 
- * Autocomplete
+ * Video Explaining Project
  * Masonry
+ * PDF Export
 
 
 ### Web-Components (Built with componentForge)
@@ -32,7 +35,9 @@ DEMO : https://dm-cf-components.netlify.app/
 
 
 ***Components*** 
+ * Video Explaining Project
  * Masonry
+ * PDF Export
 
 
  ### Angular
@@ -44,8 +49,9 @@ DEMO : https://dm-ng-components.netlify.app/
 
 
 ***Components*** 
- * Autocomplete
+ * Video Explaining Project
  * Masonry
+ * PDF Export
  
 
  
@@ -65,8 +71,30 @@ https://componentforge.up.railway.app/
  * Youtube Channel
  * Other Frameworks (react/angular/vue) integration guides
  
+
+### mkDOM (Make DOM)
+
+https://github.com/darshanmarathe/mkdom
+
+Have you written code like this 
+
+    myElem.innerHTML = `<div class='card'> ${title} </div>
+
+ and **Source Code Analysis Tools** for e.g. checkmarks are reporting as possible **XSS** attack the tool is right but then how to fix it ? Here comes the mkDOM library with a fluent API to help you 
+
+    const div = mkDOM('div' , {
+    "class":  'card'
+    }).content(title)
+    myElem.appendChild(div.element)
+
+But now your code is safe and SCAT tools are happy with it. :-)   
  
- 
+
+***ROADMAP*** 
+ * Video Explaining Project
+ * ClearDOM
+ * AppendTo
+
 
 ### XCMD
 ***Commands on sterioids***
@@ -81,8 +109,9 @@ Super commands for your windows programmers for improving development productivi
 
 
 ***ROADMAP*** 
+ * Video Explaining Project
  * Better documentation
- * GOLANG VERSION
+ * GOLANG VERSION (Optional)
 
  
 
@@ -97,6 +126,7 @@ Super commands for your windows programmers for improving development productivi
 Partial Tag for HTML without any server side technology
 
 ***ROADMAP*** 
+ * Video Explaining Project
  * lit-html templating integration
  * Support for Scripts and methods
  * passing attributes as variable to the script  
@@ -110,6 +140,7 @@ Partial Tag for HTML without any server side technology
 
 
 ***ROADMAP*** 
+ * Video Explaining Project
  * Sketch
  * diagram  
  * Mini video call and chat support 
@@ -125,6 +156,7 @@ Micro Front-end event binding with declarative programing
 Write 0 JS for binding your micro frontends
 
 ***ROADMAP*** 
+ * Video Explaining Project
  * Better documentation. 
  * Better Demo Website. 
 
@@ -136,6 +168,7 @@ Node Express
 Need a quick API backend enjoy min-json-server
 
 ***ROADMAP*** 
+* Video Explaining Project
 * RealTime
 * admin Area service
 * admin panel
@@ -160,6 +193,7 @@ SQL For Objects Arrays and Async functions
 (Support for SubQueries)
 
 ***ROADMAP*** 
+ * Video Explaining Project
  * SORTBY
  * EVAL SELECTS
  
@@ -171,6 +205,7 @@ winforms
 Pomodrrow timer
 
 ***ROADMAP*** 
+ * Video Explaining Project
  * TODO LIST
  * CROSS PLATFORM WITH MONO
 
@@ -181,4 +216,5 @@ Mongo Node
 Decompose MongoDB backup files
 
 ***ROADMAP*** 
+ * Video Explaining Project
  * Better Documentaion
