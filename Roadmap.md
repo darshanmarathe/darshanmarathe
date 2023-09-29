@@ -12,7 +12,7 @@ DEMO : https://dm-react-components.netlify.app/
  * Video Explaining Project 
  * smartTexter
  * JSONForm (more properties support)
-
+ * Speech control
 ### Vue
 
 [https://github.com/darshanmarathe/dm-vue-components](https://github.com/darshanmarathe/dm-vue-components)
@@ -24,6 +24,8 @@ DEMO : https://dm-vue-components.netlify.app/
  * Video Explaining Project
  * Masonry
  * PDF Export
+ * Speech control
+ 
 
 
 ### Web-Components (Built with componentForge)
@@ -38,6 +40,7 @@ DEMO : https://dm-cf-components.netlify.app/
  * Video Explaining Project
  * Masonry
  * PDF Export
+ * Speech control
 
 
  ### Angular
@@ -52,6 +55,7 @@ DEMO : https://dm-ng-components.netlify.app/
  * Video Explaining Project
  * Masonry
  * PDF Export
+ * Speech control
  
 
  
@@ -70,6 +74,7 @@ https://componentforge.up.railway.app/
 ***ROADMAP*** 
  * Youtube Channel
  * Other Frameworks (react/angular/vue) integration guides
+ * Vite template ...
  
 
 ### mkDOM (Make DOM)
@@ -112,6 +117,7 @@ Super commands for your windows programmers for improving development productivi
  * Video Explaining Project
  * Better documentation
  * GOLANG VERSION (Optional)
+ * cdl cd & ll together ...
 
  
 
