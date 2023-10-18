@@ -68,10 +68,11 @@ A Web Component framework which you can use to build native web components using
 
 
 ***Website***
-https://componentforge.up.railway.app/
+https://componentforge.collabmantra.com/
 
 
 ***ROADMAP*** 
+ * Tag add validation for tag-name (for -)
  * Youtube Channel
  * Other Frameworks (react/angular/vue) integration guides
  * Vite template ...
@@ -125,7 +126,7 @@ Super commands for your windows programmers for improving development productivi
 ### PartialJS
 [github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
 
-[DEMO](https://partialjs.up.railway.app/)
+[DEMO](https://partialjs.collabmantra.com/)
 
 
 
@@ -142,7 +143,7 @@ Partial Tag for HTML without any server side technology
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
 
 #### DEMO 
-[https://interviewpad.up.railway.app/](https://interviewpad.up.railway.app/)
+[https://interviewpad.collabmantra.com/](https://interviewpad.collabmantra.com/)
 
 
 ***ROADMAP*** 

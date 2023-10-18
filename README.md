@@ -95,7 +95,7 @@ TypeScript Lit-html WebPack
 A Web Component framework which you can use to build native web components using reactish framework with state and props and lit-html
 
 ***Website***
-https://componentforge.up.railway.app/
+https://componentforge.collabmantra.com/
 
 ***FEATURES***
  * React style API
@@ -150,7 +150,7 @@ Super commands for your windows programmers for improving development productivi
 ### PartialJS
 [https://github.com/darshanmarathe/partialjs](https://github.com/darshanmarathe/partialjs)
 
-[Demo](http://partialjs.up.railway.app/)
+[Demo](http://partialjs.collabmantra.com/)
 
 Partial Tag for HTML without any server side technology
 
@@ -169,7 +169,7 @@ Partial Tag for HTML without any server side technology
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
 
 #### DEMO
-[interviewpad.up.railway.app/](https://interviewpad.up.railway.app/)
+[interviewpad.collabmantra.com/](https://interviewpad.collabmantra.com/)
 
 
 ***FEATURES***
