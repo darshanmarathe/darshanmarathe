@@ -72,10 +72,11 @@ https://componentforge.collabmantra.com/
 
 
 ***ROADMAP*** 
- * Tag add validation for tag-name (for -)
  * Youtube Channel
  * Other Frameworks (react/angular/vue) integration guides
  * Vite template ...
+ * Unit testing samples
+ 
  
 
 ### mkDOM (Make DOM)
@@ -98,8 +99,7 @@ But now your code is safe and SCAT tools are happy with it. :-)
 
 ***ROADMAP*** 
  * Video Explaining Project
- * ClearDOM
- * AppendTo
+ * Playground.
 
 
 ### XCMD
@@ -118,7 +118,7 @@ Super commands for your windows programmers for improving development productivi
  * Video Explaining Project
  * Better documentation
  * GOLANG VERSION (Optional)
- * cdl cd & ll together ...
+
 
  
 
