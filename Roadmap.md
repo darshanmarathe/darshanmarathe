@@ -134,10 +134,7 @@ Partial Tag for HTML without any server side technology
 
 ***ROADMAP*** 
  * Video Explaining Project
- * lit-html templating integration
- * Support for Scripts and methods
- * passing attributes as variable to the script  
-
+ 
 
 ### CodeCollab
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
