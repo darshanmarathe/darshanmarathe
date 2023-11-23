@@ -195,7 +195,6 @@ Write 0 JS for binding your micro frontends
 ### json_server_next
 [github.com/darshanmarathe/json_server_next](https://github.com/darshanmarathe/json_server_next)
 Node Express
-Node Express
 
 Need a quick API backend enjoy min-json-server
 
