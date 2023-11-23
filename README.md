@@ -192,8 +192,9 @@ Write 0 JS for binding your micro frontends
  * Complex property binding with targrt format.
 
 
-### min-json-server
-[github.com/darshanmarathe/min_json_server](https://github.com/darshanmarathe/min_json_server)
+### json_server_next
+[github.com/darshanmarathe/json_server_next](https://github.com/darshanmarathe/json_server_next)
+Node Express
 Node Express
 
 Need a quick API backend enjoy min-json-server
@@ -204,6 +205,9 @@ Need a quick API backend enjoy min-json-server
  * Dynamic Api with REST Support
  * Caching layer (ENV: CACHE_TTL=100, or soon api level)
  * Reverse Proxy
+ * Realtime 
+ * Hypermedia API
+ * Webhooks
 
 
 
