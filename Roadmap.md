@@ -87,7 +87,7 @@ Have you written code like this
 
     myElem.innerHTML = `<div class='card'> ${title} </div>
 
- and **Source Code Analysis Tools** for e.g. checkmarks are reporting as possible **XSS** attack the tool is right but then how to fix it ? Here comes the mkDOM library with a fluent API to help you 
+ and **Source Code Analysis Tools** for e.g. checkmark are reporting as possible **XSS** attack the tool is right but then how to fix it ? Here comes the mkDOM library with a fluent API to help you 
 
     const div = mkDOM('div' , {
     "class":  'card'
@@ -103,7 +103,7 @@ But now your code is safe and SCAT tools are happy with it. :-)
 
 
 ### XCMD
-***Commands on sterioids***
+***Commands on steroids***
 
 [github.com/darshanmarathe/xcmd](https://github.com/darshanmarathe/xcmd)
 
@@ -118,6 +118,7 @@ Super commands for your windows programmers for improving development productivi
  * Video Explaining Project
  * Better documentation
  * GOLANG VERSION (Optional)
+ * PYTHON VERSION (Optional)
 
 
  
@@ -156,8 +157,8 @@ Partial Tag for HTML without any server side technology
 ### BindingJs
 [github.com/darshanmarathe/bindingsjs](https://github.com/darshanmarathe/bindingsjs)
 JS
-Micro Front-end event binding with declarative programing
-Write 0 JS for binding your micro frontends
+Micro Front-end event binding with declarative programming
+Write 0 JS for binding your micro frontend
 
 ***ROADMAP*** 
  * Video Explaining Project
@@ -218,4 +219,4 @@ Decompose MongoDB backup files
 
 ***ROADMAP*** 
  * Video Explaining Project
- * Better Documentaion
+ * Better Documentation

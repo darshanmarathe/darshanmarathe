@@ -5,7 +5,8 @@
 
 **A Developer with**
 
- - Backend + Frontend + DevOps +  18 Years experience.
+ - Backend + Frontend + DevOps + Product development 
+ - 20+ Years experience building systems.
  - Experience in Developing SaaS App Check CollabMantra.com (95% code written by me)
  - BE - NodeJs / C# / Golang / Python
  - FE (React / Vue / Angular / Web Components / ComponentForge (that's the framework written by me)
@@ -14,7 +15,7 @@
 **Domains with experience**
 
  - OTT  	
- - Ecommerce  	
+ - E-commerce  	
  - Procurement  	
  - Travel and hospitality  	
  - SaaS  	
@@ -38,7 +39,7 @@ And ***Roadmap***
 DEMO : https://dm-react-components.netlify.app/
 
 ***Components***
- * JSONForm (Low code formbuilder with validations)
+ * JSONForm (Low code form builder with validations)
  * Autocomplete
  * Masonry
  * PDF Export
@@ -57,7 +58,7 @@ DEMO : https://dm-vue-components.netlify.app/
 
 
 ***Components***
- * JSONForm (Low code formbuilder with validations)
+ * JSONForm (Low code form builder with validations)
  * Autocomplete
 
 
@@ -70,7 +71,7 @@ DEMO : https://dm-cf-components.netlify.app/
 
 
 ***Components***
- * JSONForm (Low code formbuilder with validations)
+ * JSONForm (Low code form builder with validations)
  * Autocomplete
 
 
@@ -83,7 +84,7 @@ DEMO : https://dm-ng-components.netlify.app/
 
 
 ***Components***
- * JSONForm (Low code formbuilder with validations)
+ * JSONForm (Low code form builder with validations)
  * Autocomplete
 
 
@@ -126,7 +127,7 @@ But now your code is safe and SCAT tools are happy with it. :-)
 
 
 ### XCMD
-***Commands on sterioids***
+***Commands on steroids***
 
 [https://github.com/darshanmarathe/xcmd](https://github.com/darshanmarathe/xcmd)
 
@@ -182,14 +183,14 @@ Partial Tag for HTML without any server side technology
 ### BindingJs
 [github.com/darshanmarathe/bindingsjs](https://github.com/darshanmarathe/bindingsjs)
 JS
-Micro Front-end event binding with declarative programing
-Write 0 JS for binding your micro frontends
+Micro Front-end event binding with declarative programming
+Write 0 JS for binding your micro frontend
 
 ***FEATURES***
  * Pass strings with Events to other controls.
  * Pass Object with Events to other controls.
  * Pass strings/Objects to function.
- * Complex property binding with targrt format.
+ * Complex property binding with target format.
 
 
 ### json_server_next
@@ -199,7 +200,7 @@ Node Express
 Need a quick API backend enjoy min-json-server
 
 ***FEATURES***
- * Support FileSystem / Mongo / Redis / neDB / MySQL / SQL / Postgress
+ * Support FileSystem / Mongo / Redis / neDB / MySQL / SQL / Postgres
  * 0 Configuration with FileSystem Backend
  * Dynamic Api with REST Support
  * Caching layer (ENV: CACHE_TTL=100, or soon api level)
@@ -219,7 +220,7 @@ SQL For Objects Arrays and Async functions
 (Support for SubQueries)
 
 ***FEATURES***
- * SELECT (obj.propname , obj.prop.subprop)
+ * SELECT (obj.prop_name , obj.prop.sub_prop_name)
  * FROM (Objects, Arrays, Async functions)
  * GROUPBY
 

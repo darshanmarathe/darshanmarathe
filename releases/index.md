@@ -9,4 +9,5 @@
   - [August](aug_2023.md)
   - [Sept](sept_2023.md)
   - [October](oct_2023.md)
+  - [November](nov_2023.md)
   
