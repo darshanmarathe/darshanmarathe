@@ -6,7 +6,7 @@
 **A Developer with**
 
  - Backend + Frontend + DevOps + Product development 
- - 20+ Years experience building systems.
+ - 21+ Years experience building systems.
  - Experience in Developing SaaS App Check CollabMantra.com (95% code written by me)
  - BE - NodeJs / C# / Golang / Python
  - FE (React / Vue / Angular / Web Components / ComponentForge (that's the framework written by me)
@@ -47,6 +47,7 @@ DEMO : https://dm-react-components.netlify.app/
  * QR/Barcode Scanner
  * QR Generator
  * Dynamic Table (Grid control)
+ * Syntax Highlight based in prism.js
  * TextArea (BETA) (snippets for textarea)
 
 
