@@ -171,7 +171,7 @@ Partial Tag for HTML without any server side technology
 [github.com/darshanmarathe/CodeCollab](https://github.com/darshanmarathe/CodeCollab)
 
 #### DEMO
-[interviewpad.collabmantra.com/](https://interviewpad.collabmantra.com/)
+[https://interviewpad.collabmantra.com/](https://interviewpad.collabmantra.com/)
 
 
 ***FEATURES***
@@ -186,6 +186,9 @@ Partial Tag for HTML without any server side technology
 JS
 Micro Front-end event binding with declarative programming
 Write 0 JS for binding your micro frontend
+
+#### DEMO
+[https://bindingjs.netlify.app/](https://bindingjs.netlify.app/)
 
 ***FEATURES***
  * Pass strings with Events to other controls.

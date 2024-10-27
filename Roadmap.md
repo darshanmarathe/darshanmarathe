@@ -160,7 +160,12 @@ JS
 Micro Front-end event binding with declarative programming
 Write 0 JS for binding your micro frontend
 
+#### DEMO
+[https://bindingjs.netlify.app/](https://bindingjs.netlify.app/)
+
 ***ROADMAP*** 
+ * Model
+ * Signals
  * Video Explaining Project
  * Better documentation. 
  * Better Demo Website. 
