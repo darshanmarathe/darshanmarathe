@@ -227,6 +227,7 @@ SQL For Objects Arrays and Async functions
  * SELECT (obj.prop_name , obj.prop.sub_prop_name)
  * FROM (Objects, Arrays, Async functions)
  * GROUPBY
+ * Comupted functions 
 
 
 ### Pomodorrow

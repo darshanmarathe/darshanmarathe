@@ -12,6 +12,7 @@ DEMO : https://dm-react-components.netlify.app/
  * Video Explaining Project 
  * smartTexter
  * JSONForm (more properties support)
+ * Screen Share control
  * Speech control
 ### Vue
 
@@ -76,6 +77,7 @@ https://componentforge.collabmantra.com/
  * Other Frameworks (react/angular/vue) integration guides
  * Vite template ...
  * Unit testing samples
+ * Server side Rendering Support
  
  
 
@@ -146,6 +148,7 @@ Partial Tag for HTML without any server side technology
 
 ***ROADMAP*** 
  * Video Explaining Project
+ * Screen share
  * Sketch
  * diagram  
  * Mini video call and chat support 
@@ -202,7 +205,6 @@ SQL For Objects Arrays and Async functions
 ***ROADMAP*** 
  * Video Explaining Project
  * SORTBY
- * EVAL SELECTS
  
 
 ### Pomodorrow
